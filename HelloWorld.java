@@ -5,7 +5,7 @@ public class HelloWorld {
     
     System.out.print("This is Daniel exploring Git/GitHub and I am making changes to this repository");  
     
-    System.out.print("Hello");
+    System.out.print("Hello + 1");
     
   
   }
